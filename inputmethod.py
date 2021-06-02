@@ -1,0 +1,11 @@
+#a= input("please enter your name:")
+#print("your name is"+ " "+ a + ".")
+#print(type(a))
+
+Name= input("What is your name:")
+Quest = input("What is your quest:")
+Colour = input("What is your favourite colour:")
+#print("your name is"+ " "+ Name + ".")
+#print("Your quest is" + " " +Quest + ".")
+#print("Your favourite colour is" + " "+Colour + ".")
+print("your name is"+" "+Name+" "+"your quest is"+ " "+Quest+" "+"Your favourite colour is" + " "+Colour)
